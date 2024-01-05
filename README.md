@@ -1,1 +1,1 @@
-# -Skypro-test-task
+# Skypro-test-task
