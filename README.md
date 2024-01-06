@@ -10,9 +10,15 @@
 2. Создайте репозиторий на GitHub.
 3. Создайте API-ключ на GitHub: https://github.com/settings/tokens
 4. Скачайте и установите Postman: https://www.postman.com/downloads/
-5. Импортируйте JSON-коллекцию в Postman.
-6. Замените значения `тут_ваш_токен`, `ваш_логин`, `владелец_репозитория`, `репозиторий` и `номер_issue` на ваши реальные данные.
-7. Запустите тесты по порядку: "Create Issue", "Get Issues", "Update Issue", "Delete Issue".
+5. Зайдите на сайт с документацией: https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues
+6. Найдите пункты:
+  1 - Create an issue
+  2 - List repository issues
+  3 - Update an issue
+  4 - Lock an issue
+8. Импортируйте JSON-коллекцию в Postman.
+9. Замените значения `тут_ваш_токен`, `ваш_логин`, `владелец_репозитория`, `репозиторий` и `номер_issue` на ваши реальные данные - это `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`, `goodnightshawty`, `goodnightshawty`, `-Skypro-test-task` и `1`
+10. Запустите тесты по порядку: "Create Issue", "Get Issues", "Update Issue", "Lock an Issue".
 
 ## Ссылка на репозиторий
 
