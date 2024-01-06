@@ -16,4 +16,4 @@
 
 ## Ссылка на репозиторий
 
-[Ссылка на ваш GitHub-репозиторий](https://github.com/goodnightshawty/-Skypro-test-task)
+[Ссылка на GitHub-репозиторий](https://github.com/goodnightshawty/-Skypro-test-task)
