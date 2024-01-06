@@ -17,7 +17,7 @@
   3 - Update an issue
   4 - Lock an issue
 8. Импортируйте JSON-коллекцию в Postman.
-9. Замените значения `тут_ваш_токен`, `ваш_логин`, `владелец_репозитория`, `репозиторий` и `номер_issue` на ваши реальные данные - это `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`, `goodnightshawty`, `goodnightshawty`, `-Skypro-test-task` и `1`
+9. Замените значения `тут_ваш_токен`, `ваш_логин`, `владелец_репозитория`, `репозиторий` и `номер_issue` на ваши реальные данные.
 10. Запустите тесты по порядку: "Create Issue", "Get Issues", "Update Issue", "Lock an Issue".
 
 ## Ссылка на репозиторий
